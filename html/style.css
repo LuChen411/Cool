@@ -1,0 +1,21 @@
+/* #a{
+    background-color: rgb(14, 125, 222);
+    border: 3px solid rgb(9, 102, 183);
+    width: 300px;
+    height: auto;
+} */
+
+#name{
+    width: 292px;
+    height: auto;
+}
+
+#des{
+    width: 292px;
+    height: auto;
+}
+
+#title{
+    width: 292px;
+    height: auto;
+}
