@@ -7,6 +7,7 @@ a.addEventListener("click", function(){
     a.style.color = ("red")
     list.innerHTML = list.innerHTML + `
     <div class="essay">
+								<h1>文章</h1>
         <h2>${title.value}</h2>
         <h3>${des.value}</h3>
         <h4>使用者名称:${nm.value}</h4>
